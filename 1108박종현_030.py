@@ -9,4 +9,4 @@ print()
 # [문제] 1에서 100 이하까지 홀수를 출력하시오.
 
 for i in range(1, 100, 2):
-    print(i, end=' ')
+    print(i, end='')
