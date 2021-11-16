@@ -1,3 +1,4 @@
+# 시간 속의 숫자 찾기
 for i in range(int(input()) + 1):
 	for j in range(60):
 		for k in range(60):
